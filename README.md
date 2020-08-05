@@ -51,3 +51,7 @@ $curl -X POST http://localhost:8080/trades/  -H "content-type: application/json"
 7. Return all the trades filtered by USER ID & STOCK SYMBOL the response should be sorted in ascending order by trade ID, http://localhost:8080/trades/users/2/stocks/AA (2 -> id of user, AA-> stock symbol).
 
 
+## You may also like...
+
+- [Contact System](https://github.com/prabha1729/Spring-Boot-RESTful-Api) - A Spring Boot RESTful API service for Contact Entry System.
+- [Airport Info](https://github.com/prabha1729/Airport-Info) - A Spring Boot Service for airport information.
