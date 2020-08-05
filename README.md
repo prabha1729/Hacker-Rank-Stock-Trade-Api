@@ -53,5 +53,5 @@ $curl -X POST http://localhost:8080/trades/  -H "content-type: application/json"
 
 ## You may also like...
 
-- [Contact System](https://github.com/prabha1729/Spring-Boot-RESTful-Api) - A Spring Boot RESTful API service for Contact Entry System.
+- [Contact System](https://github.com/prabha1729/Spring-Boot-RESTful-Api) - A Spring Boot RESTful service for Contact Entry System.
 - [Airport Info](https://github.com/prabha1729/Airport-Info) - A Spring Boot Service for airport information.
