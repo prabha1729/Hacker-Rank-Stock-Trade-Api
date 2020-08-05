@@ -3,7 +3,8 @@ This is a prototype for building a brokerage company's account and trades manage
 
 # Reach out to me
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabhakargaddam/)
-<p><a href="mailto:prabhakargaddam1729@gmail.com">prabhakargaddam1729@gmail.com</a></p>
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:prabhakargaddam1729@gmail.com>)
+
 <br/>
 
 
