@@ -3,9 +3,6 @@ This is a prototype for building a brokerage company's account and trades manage
 
 # Reach out to me
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabhakargaddam/)
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<a href="mailto:prabhakargaddam1729@gmail.com"></a>)
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
-<p><a href="mailto:foo@bar.example.com">foo@bar.example.com</a></p>
 <p><a href="mailto:prabhakargaddam1729@gmail.com">prabhakargaddam1729@gmail.com</a></p>
 <br/>
 
