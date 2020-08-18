@@ -39,13 +39,21 @@ Trade JSON
 }
 ```
 The REST service should implement the following functionalities:
+
 **Erasing all the trades**: The service should be able to erase all the trades by the DELETE request at `/erase`. The HTTP response code should be 200.
 
 **Adding new trades**: The service should be able to add a new trade by the POST request at `/trades`. The event JSON is sent in the request body. If a trade with the same id already exists then the HTTP response code should be 400, otherwise, the response code should be 201.
 
 **Returning all the trades**: The service should be able to return the JSON array of all the trades by the `GET` request at `/trades`. The HTTP response code should be 200. The JSON array should be sorted in ascending order by trade ID.
 
+**Returning the trade records filtered by the trade ID**: The service should be able to return the JSON array of all the trades which are performed by the trade ID by the `GET` request at `/trades/{id}`. If the trade with given ID does not exist then the HTTP response code should be 404, otherwise, the response code should be 200. The JSON array should be sorted in ascending order by trade ID.
+
 **Returning the trade records filtered by the user ID**: The service should be able to return the JSON array of all the trades which are performed by the user ID by the `GET` request at `/trades/users/{userID}`. If the requested user does not exist then the HTTP response code should be 404, otherwise, the response code should be 200. The JSON array should be sorted in ascending order by trade ID.
+
+**Returning the trade records filtered by the stock Symbol**: The service should be able to return the JSON array of all the trades which are associated with stock symbol by the `GET` request at `/trades/stocks/{stockSymbol}`. If the requested stock does not exist then the HTTP response code should be 404, otherwise, the response code should be 200. The JSON array should be sorted in ascending order by trade ID.
+
+
+**Returning the trade records filtered by user ID && stock Symbol**: The service should be able to return the JSON array of all the trades which are performed by user ID and associated with stock symbol by the `GET` request at `/trades/users/{userID}/stocks/{stockSymbol}`. If the requested user or stock symbol does not exist then the HTTP response code should be 404, otherwise, the response code should be 200. The JSON array should be sorted in ascending order by trade ID.
 
 
 # Reach out to me
