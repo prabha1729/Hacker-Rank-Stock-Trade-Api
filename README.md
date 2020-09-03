@@ -1,4 +1,4 @@
-# Hacker-Rank-Stock-Trade-Api
+# Stock-Trade-Api
 This is a prototype for building a brokerage company's account and trades management platform. One Requirement is for a REST API service to manage trades using Spring Boot framework. Add functionality to add or delete transations as well as to perform some queries.
 
 Each trade is a JSON entry with the following keys:
